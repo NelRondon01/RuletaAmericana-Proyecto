@@ -15,4 +15,4 @@ Si ya tienes Git usa los siguientes comandos
 3. Run the project:
    ```bash
    python main.py
-   ``
+   ```
