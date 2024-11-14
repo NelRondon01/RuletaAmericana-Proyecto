@@ -35,7 +35,7 @@ class Apuesta:
         elif self.tipo == 'seisena':
             return 5 * self.cantidad
         elif self.tipo in ["color", 'par', 'impar', 'alto', 'bajo']:
-            return 1 * self.cantidad
+            return 2 * self.cantidad
         elif self.tipo == 'docena':
             return 2 * self.cantidad
         elif self.tipo == 'columna':
